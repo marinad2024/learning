@@ -1,0 +1,60 @@
+### 1. **Agile Methodologies**
+- **Trunk-Based Development & Extreme Programming (XP):**
+  - **[Trunk Based Development Concepts](https://trunkbaseddevelopment.com/)**: Learn about trunk-based development strategies.
+  - **[Extreme Programming (XP) Overview - Agile Alliance](https://www.agilealliance.org/glossary/xp)**: Introduction to XP principles and practices.
+
+- **Free course:** [Agile Software Development on Coursera](https://www.coursera.org/learn/agile-software-development)
+
+### 2. **High-Velocity Environment**
+- **Frequent Deployments & Feature Toggles:**
+  - **[Continuous Deployment & Feature Flags Tutorial](https://featureflags.io/)**: Learn how to implement feature toggles effectively.
+  - **[FreeCodeCamp Continuous Deployment](https://www.freecodecamp.org/news/continuous-deployment-ci-cd-pipeline)**: Free guide on frequent deployment strategies.
+
+### 3. **Tech Stack: Go, AWS Serverless, React JS, Terraform**
+- **Go Programming Language:**
+  - **[Learn Go with FreeCodeCamp](https://www.freecodecamp.org/news/learn-go-programming-language/)**: Beginner to intermediate guide.
+  - **[Gophercises](https://gophercises.com/)**: Hands-on coding exercises for Go.
+
+- **AWS Serverless:**
+  - **[AWS Free Tier - Serverless Lambda](https://aws.amazon.com/free/)**: Hands-on with AWS services like Lambda, S3, API Gateway.
+  - **[Serverless Framework - Free Tier](https://www.serverless.com/framework/docs/)**: Learn how to deploy serverless functions.
+
+- **React JS:**
+  - **[React JS Official Documentation](https://reactjs.org/tutorial/tutorial.html)**: Start building interactive UIs.
+  - **[FreeCodeCamp React Tutorial](https://www.freecodecamp.org/news/react-beginner-handbook/)**: A detailed React guide.
+
+- **Terraform:**
+  - **[Terraform Official Documentation](https://developer.hashicorp.com/terraform/docs)**: Learn infrastructure-as-code principles.
+  - **[Learn Terraform - FreeCodeCamp](https://www.freecodecamp.org/news/terraform-beginners-guide/)**: Tutorial to get started with Terraform.
+
+### 4. **DevOps Practices**
+- **CI/CD with BuildKite:**
+  - **[BuildKite Documentation](https://buildkite.com/docs)**: Free resources on CI/CD pipelines with BuildKite.
+
+- **GitHub Version Control:**
+  - **[GitHub Learning Lab](https://lab.github.com/)**: Free GitHub tutorials, including version control workflows.
+
+### 5. **Monitoring: AWS CloudWatch, Grafana**
+- **AWS CloudWatch:**
+  - **[AWS CloudWatch Quick Start](https://aws.amazon.com/cloudwatch/getting-started/)**: Tutorials to set up and use CloudWatch.
+
+- **Grafana:**
+  - **[Grafana Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/grafana-introduction/)**: Learn to set up Grafana for monitoring.
+
+### 6. **Ownership**
+- **Driving Features from Conception to Production:**
+  - **[Feature Ownership – Atlassian Guide](https://www.atlassian.com/agile/product-management/ownership)**: Insights into owning product features.
+  - **[Product Development – Google’s Codelabs](https://codelabs.developers.google.com/)**: Learn feature planning and production through code labs.
+
+### 7. **Communication**
+- **Complex Ideas with Diverse Stakeholders:**
+  - **[Communicating Complex Ideas - Coursera](https://www.coursera.org/learn/communication-skills-complex-ideas)**: Free course on effective communication techniques for technical subjects.
+
+### 8. **Decision-Making**
+- **Prioritizing Tasks & Making Thoughtful Trade-offs:**
+  - **[Decision-Making Framework - Harvard Business School](https://online.hbs.edu/blog/post/how-to-make-better-decisions)**: Insights into structured decision-making.
+  - **[Prioritization Techniques - Atlassian](https://www.atlassian.com/agile/product-management/roadmaps/prioritization-techniques)**: Learn how to prioritize tasks effectively.
+
+### 9. **Work Culture**
+- **Thriving in a Fully Remote, Supportive Environment:**
+  - **[Remote Work - Coursera](https://www.coursera.org/learn/remote-team-management)**: Learn strategies to thrive in a remote environment.
